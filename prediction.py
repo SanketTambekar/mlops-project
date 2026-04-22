@@ -28,3 +28,4 @@ y_pred = model.predict(X_test)
 # Accuracy
 acc = accuracy_score(y_test, y_pred)
 print("Model Accuracy:", acc)
+print("Improved model")
